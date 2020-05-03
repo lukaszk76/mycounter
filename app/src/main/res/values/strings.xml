@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCounter</string>
+    <string name="inc">zwieksz</string>
+    <string name="dec">zmniejsz</string>
+    <string name="zero">zeruj</string>
+    <string name="set">ustaw wartość</string>
+</resources>
